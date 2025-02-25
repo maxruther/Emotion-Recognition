@@ -12,17 +12,20 @@ For a final project in a course on deep learning, I train convolutional neural n
 <br></br>
 <div align="center">
 
-| <p align="center"><img src="images/visualized_samples.png"></p> |
+| **Visualized Samples** |
 | :--: |
+| <p align="center"><img src="images/visualized_samples.png"></p> |
 | *Some visualized samples from this image dataset.* |
 
 <br></br>
-| <p align="center"><img src="images/model6__acc_and_loss.png"></p> |
+| **Training History Plot** |
 | :--: |
+| <p align="center"><img src="images/model6__acc_and_loss.png"></p> |
 | *A plot of a model's accuracy and loss in training and validation. Plots like these were examined to check for overfitting.* |
 
 <br></br>
-| <p align="center"><img src="images/confusion_matrix.png"></p> |
+| **Confusion Matrix** |
 | :--: |
+| <p align="center"><img src="images/confusion_matrix.png"></p> |
 | *To strengthen my sense of a classifier's error, I examine the confusion matrix of its test performance.* |
 </div>
